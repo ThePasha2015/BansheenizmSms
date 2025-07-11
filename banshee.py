@@ -49,9 +49,9 @@ console = Console(theme=custom_theme_dark)
 
 ARIVA_BANNER = """
    ╔══════════════════════════════════════╗
-   ║    ✨ BANSHEENİZM SMS SYSTEM ✨     ║
-   ║       Developer By Bansheenizm       ║
-   ║ Channel: t.me/millisanalteskilat     ║
+   ║    ✨ AKEMİ SMS SYSTEM ✨           ║
+   ║       Developer by Akeminizm         ║
+   ║ Discord: discord.gg/GnAYwaP7WU       ║
    ╚══════════════════════════════════════╝
 """
 
