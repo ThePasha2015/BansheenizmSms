@@ -1,3 +1,3 @@
-# Bansheenizm Sms Sistemine Hoşgeldiniz
+# Akeminizm Sms Sistemine Hoşgeldiniz
 
 > Eğitim amaçlıdır kötüye kullanımdan kullanıcı sorumludur!
